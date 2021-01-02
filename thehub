@@ -1,0 +1,14 @@
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="ENTERTAINMENT",Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UueddD1.png" group-title="ENTERTAINMENT",Grit
+http://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="ENTERTAINMENT",H2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3A3NAWZ.png" group-title="ENTERTAINMENT",Hallmark Movies & Mysteries
+https://fluxustv.blogspot.com@bit.ly/2qmcmcG?.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s8J5khw.png" group-title="ENTERTAINMENT",HGTV
+https://cvtv.cvalley.net/hls/HGTVHD/HGTVHD.m3u8?fluxustv.m3u8
